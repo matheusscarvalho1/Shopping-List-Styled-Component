@@ -61,6 +61,37 @@ Depois, é só abrir [http://localhost:5173](http://localhost:5173) no seu naveg
 
 
 (cria IDs aleatórios) - Para que o react saiba o id de cada elemento adicionado pelo cliente
+
+
+# Resultados
+
+![image](https://github.com/matheusscarvalho1/Shopping-List-Styled-Components/assets/73304785/43c75ebf-0891-4165-9d7f-17b3f39f0b36)
+
+<hr>
+
+![image](https://github.com/matheusscarvalho1/Shopping-List-Styled-Components/assets/73304785/e340d3b3-f131-4cbe-9f2c-518b0e3cc975)
+
+<hr>
+
+![image](https://github.com/matheusscarvalho1/Shopping-List-Styled-Components/assets/73304785/0fb39d20-e2be-44ee-aab8-3ee1ebf47b04)
+
+<hr>
+
+![image](https://github.com/matheusscarvalho1/Shopping-List-Styled-Components/assets/73304785/08369505-def4-4ed6-b404-d52bcf2d5e1e)
+
+<hr>
+
+![image](https://github.com/matheusscarvalho1/Shopping-List-Styled-Components/assets/73304785/35ad801d-1fc1-4d7d-88e2-8f746f8697d3)
+
+<hr>
+
+![image](https://github.com/matheusscarvalho1/Shopping-List-Styled-Components/assets/73304785/ec5f424a-fa09-48cd-9378-8c41e9ab5c02)
+
+<hr>
+
+![image](https://github.com/matheusscarvalho1/Shopping-List-Styled-Components/assets/73304785/386b5734-f0e6-46ab-a2f5-f5cd9fce99f3)
+
+
 ## Autor
 
 <b>Matheus de Souza Carvalho</b>
