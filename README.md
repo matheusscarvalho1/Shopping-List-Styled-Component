@@ -10,8 +10,13 @@ Projeto elaborado para criar uma lista de compras que precisam ser feitas no dia
 
 ## Vite - Quais as vantagens de usá-lo ao inves do CRA (Crete React App)
 
-Essa ferramenta de desenvolvimento oferece um ambiente de desenvolvimento rápido e eficiente, otimizando a velocidade de compilação e recarga para melhorar a produtividade dos desenvolvedores.
+Essa ferramenta de desenvolvimento de projetos de front-end que oferece um ambiente de desenvolvimento rápido e eficiente, otimizando a velocidade de compilação e recarga para melhorar a produtividade dos desenvolvedores para projetos de web modernos. Ela consiste em duas partes principais:
 
+- Um servidor de desenvolvimento que oferece melhorias de funcionalidade ricas sobre módulos de ECMAScript nativo, por exemplo Substituição de Módulo Instantânea extremamente rápida.
+
+- Um comando de construção que empacota o nosso código com a Rollup, pré-configurado para produzir recursos estáticos altamente otimizados para produção.
+
+### Vantagens: 
 
 - Tempo de Compilação Rápido: Uma das principais vantagens do Vite é o seu tempo de compilação extremamente rápido. O Vite utiliza a abordagem de carregamento sob demanda (on-demand loading) de módulos ES nativos, o que permite tempos de compilação e         recarregamento mais rápidos durante o desenvolvimento em comparação com o Create React App.
 
