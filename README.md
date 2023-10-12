@@ -14,7 +14,7 @@ Também é necessário uma IDE, recomendo o VsCode
 ## Tecnologias e dependências utilizadas no projeto
 
 - ReactJs versão 18.2.0
-- UUID versão 9.0.0
+- UUID versão 9.0.0 - (com a finalidade de criar IDs aleatórios) - Para que o react saiba o id de cada elemento adicionado pelo cliente
 - Styled-Components versão 6.0.7
 - Vite.js versão 4.4.5
 
@@ -60,8 +60,6 @@ Depois, é só abrir [http://localhost:5173](http://localhost:5173) no seu naveg
 
 
 
-(cria IDs aleatórios) - Para que o react saiba o id de cada elemento adicionado pelo cliente
-
 
 # Resultados
 
@@ -85,8 +83,11 @@ Depois, é só abrir [http://localhost:5173](http://localhost:5173) no seu naveg
 
 <hr>
 
+
 ![image](https://github.com/matheusscarvalho1/Shopping-List-Styled-Components/assets/73304785/ec5f424a-fa09-48cd-9378-8c41e9ab5c02)
 
+- Repare que o botão de 'lixeira' está selecionado com o mouse então ao clicar é apagado a opção 'Gelados - Queijo E Presunto' da lista de compras
+  
 <hr>
 
 ![image](https://github.com/matheusscarvalho1/Shopping-List-Styled-Components/assets/73304785/386b5734-f0e6-46ab-a2f5-f5cd9fce99f3)
