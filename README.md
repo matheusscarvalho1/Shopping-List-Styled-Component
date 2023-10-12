@@ -14,7 +14,7 @@ Também é necessário uma IDE, recomendo o VsCode
 ## Tecnologias e dependências utilizadas no projeto
 
 - ReactJs versão 18.2.0
-- UUID versão 9.0.0 - (com a finalidade de criar IDs aleatórios) - Para que o react saiba o id de cada elemento adicionado pelo cliente
+- UUID versão 9.0.0: (com a finalidade de criar IDs aleatórios) - Para que o react saiba o id de cada elemento adicionado pelo cliente
 - Styled-Components versão 6.0.7
 - Vite.js versão 4.4.5
 
