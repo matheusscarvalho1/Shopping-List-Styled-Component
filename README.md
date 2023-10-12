@@ -1,5 +1,5 @@
  # Projeto - Shopping List
-Projeto elaborado para criar uma lista de compras que precisam ser feitas no dia/mês, com a finalidade de aprimorar conhecimento sobre as tecnologias utilizadas, com o objetivo principal em consolidar e fixar meus conhecimentos com a tecnologia Styled Components.
+Projeto elaborado para criar uma lista de compras que precisam ser feitas no dia/mês, com a finalidade de aprimorar conhecimento sobre as tecnologias utilizadas: React.js (Hooks) Styled Components.
 
 ## Tecnologias
 
