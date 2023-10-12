@@ -56,7 +56,7 @@ Após instalar, basta utilizar o seguinte comando:
 npm run dev
 ```
 
-Depois, é só abrir [http://localhost:3000](http://localhost:5173) no seu navegador.
+Depois, é só abrir [http://localhost:5173](http://localhost:5173) no seu navegador.
 
 
 
