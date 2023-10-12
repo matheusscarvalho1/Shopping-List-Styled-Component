@@ -1,5 +1,5 @@
- # Projeto - Shopping List
-Projeto elaborado para criar uma lista de compras que precisam ser feitas no dia/mês, com a finalidade de aprimorar conhecimento sobre as tecnologias utilizadas: React.js (Hooks) Styled Components.
+ # Projeto Shopping List
+Projeto elaborado para criar uma lista de compras que precisam ser feitas no dia/mês, com a finalidade de aprimorar conhecimento sobre as tecnologias utilizadas: React.js (Hooks) e Styled Components.
 
 ## Tecnologias
 
@@ -29,6 +29,19 @@ Essa ferramenta de desenvolvimento de projetos de front-end que oferece um ambie
 - Menor Tamanho de Pacote: Devido ao carregamento sob demanda e ao suporte a módulos ES nativos, o Vite pode produzir um pacote menor em comparação com o Create React App, o que pode resultar em tempos de carregamento mais rápidos para os usuários finais.
 
 - Ecossistema Vue e React: Embora tenha começado como uma ferramenta focada no Vue.js, o Vite também oferece suporte para projetos baseados em React. Isso pode ser uma vantagem para desenvolvedores que desejam experimentar uma abordagem de compilação mais rápida, mas ainda desejam usar o React como seu framework de escolha.
+
+## Pré requisitos
+
+Você precisa ter instalado o NodeJS (Recomendado: versão 18) e o npm ou yarn.
+
+- Instalação do nodejs: https://nodejs.org/
+
+Também é necessário uma IDE, recomendo o VsCode
+
+- Instalação do VsCode: https://code.visualstudio.com/
+
+
+## Tecnologias e dependências utilizadas no projeto
 
 ## Autor
 
