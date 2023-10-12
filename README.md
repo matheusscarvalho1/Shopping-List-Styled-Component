@@ -3,9 +3,9 @@ Projeto elaborado para criar uma lista de compras que precisam ser feitas no dia
 
 ## Tecnologias
 
-- ReactJs na sua versão 18.2.0
-- Styled-Components na sua versão 6.0.7
-- Vite.js
+- ReactJs versão 18.2.0
+- Styled-Components versão 6.0.7
+- Vite.js versão 4.4.5
 
 
 ## Vite - Quais as vantagens de usá-lo ao inves do CRA (Crete React App)
